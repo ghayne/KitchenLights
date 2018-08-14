@@ -1,0 +1,12 @@
+{
+    "name": "KitchenMotion",
+    "description": "Control kitchen LEDs with a motion sensor",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_raspberrypi.json",
+            "credentialsFile": "flows_raspberrypi_cred.json"
+        }
+    }
+}
